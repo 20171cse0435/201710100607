@@ -1,0 +1,16 @@
+<html>
+
+<style>
+p.dotted {border-style:dotted;border-color:red;border-top-width:20px; border-top-color:black;}
+p.dashed {border-style:dashed;border-color:green; border-left-width:50px; border-left-color:black;}
+p.solid {border-style:solid;border-color:blue;border-right-width:50px; border-right-color:black;}
+p.double {border-style:double;border-color:brown;border-bottom-width:20px; border-bottom-color:black;}
+</style>
+
+<body>
+<p class=dotted>THIS paragrapg represent dotted</p>
+<p class=dashed>THIS paragrapg represent dashed</p>
+<p class=solid>THIS paragrapg represent solid</p>
+<p class=double>THIS paragrapg represent double</p>
+</body>
+</html>
