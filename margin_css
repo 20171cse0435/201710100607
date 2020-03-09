@@ -1,0 +1,14 @@
+<html>
+<style>
+p.t{ border-style:dotted;
+width:300px;
+height:300px;
+border-color:red;
+margin:auto;
+border:1px solid red;
+background-color:green;}
+</style>
+<body style="background-color:blue";>
+<p class=t>paragrapn</p>
+</body>
+</html>
